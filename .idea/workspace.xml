@@ -26,7 +26,7 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="303" column="82" selection-start="7519" selection-end="7519" vertical-scroll-proportion="0.97711265" vertical-offset="1620" max-vertical-offset="4140">
+            <state line="293" column="9" selection-start="6777" selection-end="7257" vertical-scroll-proportion="2.8428571" vertical-offset="35" max-vertical-offset="4140">
               <folding>
                 <element signature="e#617#724#0" expanded="false" />
                 <element signature="e#813#1595#0" expanded="false" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="870">
+            <state line="17" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -57,7 +57,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="111" selection-end="111" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+            <state line="7" column="25" selection-start="111" selection-end="111" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
@@ -66,7 +66,7 @@
       <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="33" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -99,9 +99,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="y" value="22" />
-    <option name="width" value="818" />
-    <option name="height" value="996" />
+    <option name="width" value="960" />
+    <option name="height" value="993" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -170,14 +171,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -188,15 +181,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -218,14 +219,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="818" height="996" extended-state="0" />
-    <editor active="false" />
+    <frame x="960" y="22" width="960" height="993" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30088496" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14872365" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42409033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3599574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -252,6 +253,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="292" column="19" selection-start="7247" selection-end="7247" vertical-scroll-proportion="0.0" vertical-offset="4140" max-vertical-offset="4140">
+          <folding>
+            <element signature="e#617#724#0" expanded="false" />
+            <element signature="e#813#1595#0" expanded="false" />
+            <element signature="e#1651#2258#0" expanded="false" />
+            <element signature="e#2350#2676#0" expanded="false" />
+            <element signature="e#2728#2954#0" expanded="false" />
+            <element signature="e#3009#3245#0" expanded="false" />
+            <element signature="e#3327#3442#0" expanded="false" />
+            <element signature="e#3532#4349#0" expanded="false" />
+            <element signature="e#4411#4724#0" expanded="false" />
+            <element signature="e#5414#5627#0" expanded="false" />
+            <element signature="e#6637#6710#0" expanded="false" />
+            <element signature="e#6651#6704#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="33" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="179" column="71" selection-start="4311" selection-end="4311" vertical-scroll-proportion="0.0" vertical-offset="2685" max-vertical-offset="3405">
           <folding>
             <element signature="e#617#724#0" expanded="false" />
@@ -272,28 +321,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../App3/dist/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="48" selection-start="20" selection-end="20" vertical-scroll-proportion="0.017123288" vertical-offset="0" max-vertical-offset="876">
-          <folding />
-        </state>
+        <state line="1" column="48" selection-start="20" selection-end="20" vertical-scroll-proportion="0.017123288" vertical-offset="0" max-vertical-offset="876" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="870">
+        <state line="17" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="111" selection-end="111" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+        <state line="7" column="25" selection-start="111" selection-end="111" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="33" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
           <folding />
         </state>
       </provider>
@@ -307,7 +354,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="303" column="82" selection-start="7519" selection-end="7519" vertical-scroll-proportion="0.97711265" vertical-offset="1620" max-vertical-offset="4140">
+        <state line="293" column="9" selection-start="6777" selection-end="7257" vertical-scroll-proportion="2.8428571" vertical-offset="35" max-vertical-offset="4140">
           <folding>
             <element signature="e#617#724#0" expanded="false" />
             <element signature="e#813#1595#0" expanded="false" />
